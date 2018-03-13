@@ -16,7 +16,7 @@ www.linkedin.com/in/dianah46
 
 
 
-## Employment
+## Experience
 
 __NORDSTROM__  | Seattle, WA `Aug 2017 - Present` 
 <br>_Merchandise Specialist_
