@@ -58,8 +58,9 @@ __UW PIPELINE__  | Seattle, WA `Sept 2012 – Mar 2013`
 __University of Washington__ _B.A. Communication_ | Seattle, WA  `2010 - 2015`
 * Activities: Undergraduate Women in Business - Marketing Committee, Advertising Club, Communication Department Fundraising Team, Korean Student Association, Gospel Concert Choir
 
-# Workshops Attended
+## Workshops & Meetups Attended
 She Codes Now - Intro to JavaScript
+General Assembly - Intro to HTML, CSS
 
 
 
