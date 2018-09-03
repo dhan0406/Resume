@@ -61,8 +61,8 @@ __University of Washington__ _B.A. Communication_ | Seattle, WA  `2010 - 2015`
 ## Workshops & Meetups Attended
 She Codes Now - Intro to JavaScript  
 She Codes Now - Intro to Python   
-Seattle.rb  
-Nordstrom Hackathon Summer 2018  
+Seattle.rb Monthly Social   
+Nordstrom Hackathon - Summer 2018  
 General Assembly - Intro to HTML, CSS  
 
 
