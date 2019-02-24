@@ -19,7 +19,7 @@ www.linkedin.com/in/dianah46
 ## Experience
 
 __NORDSTROM__  | Seattle, WA `Aug 2017 - Present` 
-<br>_Merchandise Specialist_
+<br>_Item Analyst_
 * Strategize with the buying office to insure accuracy of product information from all Rack and Hautelook vendors.
 * In charge of setting up and processing orders through Oracle Merchandising System and running SQL queries.
 * Partner with distribution centers to resolve any mismatched product information or shipment issues.
