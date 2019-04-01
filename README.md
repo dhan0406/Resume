@@ -65,6 +65,6 @@ She Codes Now - Intro to Python
 Seattle.rb Monthly Social   
 Nordstrom Hackathon - Summer 2018  
 General Assembly - Intro to HTML, CSS  
-
+git hired --force "Women and Non Binary Humans in Tech: Seattle" . 
 
 
