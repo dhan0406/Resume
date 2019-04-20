@@ -8,13 +8,15 @@ dianah46@gmail.com
 www.linkedin.com/in/dianah46
 
 
-
-
-## Skills
-* MS Office Suite (Access, Excel, PowerPoint, Word), Adobe InDesign, Photoshop, iMovie, Google Suite, Google AdWords
-* Bilingual in English and Korean
-
-
+## Workshops & Meetups Attended
+New Tech Eastside - Women in Tech   
+She Codes Now - Intro to JavaScript  
+She Codes Now - Intro to Python   
+Seattle.rb Monthly Social   
+Nordstrom Hackathon - Summer 2018  
+General Assembly - Intro to HTML, CSS  
+git hired --force "Women and Non Binary Humans in Tech: Seattle"  
+Ignite hosted by Nordstrom
 
 ## Experience
 
@@ -58,13 +60,12 @@ __UW PIPELINE__  | Seattle, WA `Sept 2012 – Mar 2013`
 __University of Washington__ _B.A. Communication_ | Seattle, WA  `2010 - 2015`
 * Activities: Undergraduate Women in Business - Marketing Committee, Advertising Club, Communication Department Fundraising Team, Korean Student Association, Gospel Concert Choir
 
-## Workshops & Meetups Attended
-New Tech Eastside - Women in Tech   
-She Codes Now - Intro to JavaScript  
-She Codes Now - Intro to Python   
-Seattle.rb Monthly Social   
-Nordstrom Hackathon - Summer 2018  
-General Assembly - Intro to HTML, CSS  
-git hired --force "Women and Non Binary Humans in Tech: Seattle" . 
+
+## Skills
+* MS Office Suite (Access, Excel, PowerPoint, Word), Adobe InDesign, Photoshop, iMovie, Google Suite, Google AdWords
+* Bilingual in English and Korean
+
+
+
 
 
