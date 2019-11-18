@@ -7,20 +7,17 @@ dianah46@gmail.com
 |
 www.linkedin.com/in/dianah46
 
+## Education
+__Ada Developers Academy__ | Seattle, WA `July 2019 - Present`
+* Ruby, Ruby on Rails, HTML & CSS, Web APIs, Javascript, CS Fundamentals
+* Test-Driven Development, Pair Programming, Agile Practices
 
-## Workshops & Meetups Attended
-New Tech Eastside - Women in Tech   
-She Codes Now - Intro to JavaScript  
-She Codes Now - Intro to Python   
-Seattle.rb Monthly Social   
-Nordstrom Hackathon - Summer 2018  
-General Assembly - Intro to HTML, CSS  
-git hired --force "Women and Non Binary Humans in Tech: Seattle"  
-Ignite hosted by Nordstrom
+__University of Washington__ _B.A. Communication_ | Seattle, WA  `2010 - 2015`
+
 
 ## Experience
 
-__NORDSTROM__  | Seattle, WA `Aug 2017 - Present` 
+__NORDSTROM__  | Seattle, WA `Aug 2017 - June 2019` 
 <br>_Item Analyst_
 * Strategize with the buying office to insure accuracy of product information from all Rack and Hautelook vendors.
 * In charge of setting up and processing orders through Oracle Merchandising System and running SQL queries.
@@ -28,7 +25,7 @@ __NORDSTROM__  | Seattle, WA `Aug 2017 - Present`
 
 
 __HAN’S BEAUTY ACADEMY Co., Ltd__  | Seattle, WA `Jan 2016 - June 2017` 
-<br>_Co-Founder, Manager_
+<br>_Manager_
 * Designed and managed guidelines and curriculum for cosmetology and barbering courses per Washington State Legislature.
 * Provided individualized career counseling and advising for students to help achieve their career goals upon graduation.
 * Ad Operation: Managed the school website and client portal; advertising and press release on local newspapers and TV stations.
@@ -54,16 +51,16 @@ __UW PIPELINE__  | Seattle, WA `Sept 2012 – Mar 2013`
 * Instructed a class of Pre-K children with speech and learning disabilities.
 * Monitored performance of students from inner-city schools and assisted in designing workshops for parents.
 
-## Education
 
-
-__University of Washington__ _B.A. Communication_ | Seattle, WA  `2010 - 2015`
-* Activities: Undergraduate Women in Business - Marketing Committee, Advertising Club, Communication Department Fundraising Team, Korean Student Association, Gospel Concert Choir
-
-
-## Skills
-* MS Office Suite (Access, Excel, PowerPoint, Word), Adobe InDesign, Photoshop, iMovie, Google Suite, Google AdWords
-* Bilingual in English and Korean
+## Workshops & Meetups Attended
+New Tech Eastside - Women in Tech   
+She Codes Now - Intro to JavaScript  
+She Codes Now - Intro to Python   
+Seattle.rb Monthly Social   
+Nordstrom Hackathon - Summer 2018  
+General Assembly - Intro to HTML, CSS  
+git hired --force "Women and Non Binary Humans in Tech: Seattle"  
+Ignite hosted by Nordstrom
 
 
 
