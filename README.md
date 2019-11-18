@@ -8,11 +8,12 @@ dianah46@gmail.com
 www.linkedin.com/in/dianah46
 
 ## Education
-__Ada Developers Academy__ | Seattle, WA `July 2019 - Present`
+__ADA DEVELOPERS ACADEMY__ | Seattle, WA `July 2019 - Present`
 * Ruby, Ruby on Rails, HTML & CSS, Web APIs, Javascript, CS Fundamentals
 * Test-Driven Development, Pair Programming, Agile Practices
 
-__University of Washington__ _B.A. Communication_ | Seattle, WA  `2010 - 2015`
+
+__UNIVERSITY OF WASHINGON__ _B.A. Communication_ | Seattle, WA  `2010 - 2015`
 
 
 ## Experience
