@@ -13,8 +13,8 @@ __ADA DEVELOPERS ACADEMY__ | Seattle, WA `July 2019 - Present`
 * Test-Driven Development, Pair Programming, Agile Practices
 
 
-__UNIVERSITY OF WASHINGON__ _B.A. Communication_ | Seattle, WA  `2010 - 2015`
-
+__UNIVERSITY OF WASHINGON__  | Seattle, WA  `2010 - 2015`
+<br>_B.A. Communication_
 
 ## Experience
 
@@ -51,18 +51,6 @@ __UW PIPELINE__  | Seattle, WA `Sept 2012 – Mar 2013`
 * Coordinated the UW outreach program that mentors under-serviced K-12 students in the Seattle Public School District.
 * Instructed a class of Pre-K children with speech and learning disabilities.
 * Monitored performance of students from inner-city schools and assisted in designing workshops for parents.
-
-
-## Workshops & Meetups Attended
-New Tech Eastside - Women in Tech   
-She Codes Now - Intro to JavaScript  
-She Codes Now - Intro to Python   
-Seattle.rb Monthly Social   
-Nordstrom Hackathon - Summer 2018  
-General Assembly - Intro to HTML, CSS  
-git hired --force "Women and Non Binary Humans in Tech: Seattle"  
-Ignite hosted by Nordstrom
-
 
 
 
