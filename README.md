@@ -9,7 +9,8 @@ www.linkedin.com/in/dianah46
 
 ## Education
 __ADA DEVELOPERS ACADEMY__ | Seattle, WA `July 2019 - Present`
-* Ruby, Ruby on Rails, HTML & CSS, Web APIs, Javascript, CS Fundamentals
+* Ruby, Ruby on Rails, HTML & CSS, Bootstrap, Web APIs, Javascript, React
+* CS Fundamentals - Data Structures and Algorithms
 * Test-Driven Development, Pair Programming, Agile Practices
 
 
@@ -36,14 +37,12 @@ __NANCYRELLA.COM__ | Seoul, Korea `June – Sept 2015`
 <br>_Executive Assistant_
 * Managed sales data, including day-to-day volume, and created pivots to analyze and compare sales growth.
 * Managed RMA and followed up with defectives to keep track of daily and weekly inventory updates.
-* Connected with international clients via website and phone to build customer loyalty and to provide individualized service.
+* Connected with international clients via web and phone to build customer loyalty and to provide individualized service.
 
 
-__LE BON__ | Seoul, Korea `June – Sept 2014` 
-<br>_Analyst Intern_
-* Developed ways to advertise and distribute cosmetic products through online channels such as social media and online retailers.
-* Conducted market research on online consumers and devised competitor analysis on local cosmetics; presented to senior managers.
-* Strategized with regional sales managers to promote Le Bon products to over 20 spas, skincare clinics, and dermatologists.
+__US SCHOLARS__ | Seoul, Korea `June - Sept 2014`
+<br>_Instructor_
+* Taught a class of high school students, subjects: Enligsh Composition, SAT 1 & 2 Math
 
 
 __UW PIPELINE__  | Seattle, WA `Sept 2012 – Mar 2013` 
