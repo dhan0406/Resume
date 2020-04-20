@@ -1,8 +1,6 @@
 
 # Diana Han
 
-(206) 459-7139
-|
 dianah46@gmail.com
 |
 www.linkedin.com/in/dianah46
@@ -31,13 +29,6 @@ __HAN’S BEAUTY ACADEMY Co., Ltd__  | Seattle, WA `Jan 2016 - June 2017`
 * Designed and managed guidelines and curriculum for cosmetology and barbering courses per Washington State Legislature.
 * Provided individualized career counseling and advising for students to help achieve their career goals upon graduation.
 * Ad Operation: Managed the school website and client portal; advertising and press release on local newspapers and TV stations.
-
-
-__NANCYRELLA.COM__ | Seoul, Korea `June – Sept 2015` 
-<br>_Executive Assistant_
-* Managed sales data, including day-to-day volume, and created pivots to analyze and compare sales growth.
-* Managed RMA and followed up with defectives to keep track of daily and weekly inventory updates.
-* Connected with international clients via web and phone to build customer loyalty and to provide individualized service.
 
 
 __US SCHOLARS__ | Seoul, Korea `June - Sept 2014`
