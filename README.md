@@ -5,17 +5,17 @@ dianah46@gmail.com
 |
 www.linkedin.com/in/dianah46
 
-## Education
-__ADA DEVELOPERS ACADEMY__ | Seattle, WA `July 2019 - Present`
-* Ruby, Ruby on Rails, HTML & CSS, Bootstrap, Web APIs, Javascript, React
-* CS Fundamentals - Data Structures and Algorithms
-* Test-Driven Development, Pair Programming, Agile Practices
-
-
-__UNIVERSITY OF WASHINGON__  | Seattle, WA  `2010 - 2015`
-<br>_B.A. Communication_
-
 ## Experience
+
+__INDEED.COM__  | Seattle, WA `Feb 2020 - Present` 
+<br>_Software Engineer Intern_
+* One of five engineers on the team responsible for building a new enterprise-grade analytics reporting dashboard.
+* Currently leading the implementation of an export to PDF feature on the client-facing Indeed Analytics dashboard using Typescript in React.
+* Built a new widget that displays Indeed Targeted Ads time series metrics with Typescript React and Java Spring, which has increased user engagement by up to 50% as measured by time-on-page.
+* Partnering with Product Managers and QA to identify issues and successfully resolve over 12 business priority bug & feature tickets, being mindful of internal A/B Testing framework.
+* Actively participating in triage and planning meetings with PM’s and UX teams to identify new goals(OKRs) and review performance of existing work to meet and exceed KPIs.
+
+
 
 __NORDSTROM__  | Seattle, WA `Aug 2017 - June 2019` 
 <br>_Item Analyst_
@@ -42,6 +42,15 @@ __UW PIPELINE__  | Seattle, WA `Sept 2012 – Mar 2013`
 * Instructed a class of Pre-K children with speech and learning disabilities.
 * Monitored performance of students from inner-city schools and assisted in designing workshops for parents.
 
+## Education
+__ADA DEVELOPERS ACADEMY__ | Seattle, WA `July 2019 - Present`
+* Ruby, Ruby on Rails, HTML & CSS, Bootstrap, Web APIs, Javascript, React, React Native
+* CS Fundamentals - Data Structures and Algorithms
+* Test-Driven Development, Pair Programming, Agile Practices
+
+
+__UNIVERSITY OF WASHINGON__  | Seattle, WA  `2010 - 2015`
+<br>_B.A. Communication_
 
 
 
