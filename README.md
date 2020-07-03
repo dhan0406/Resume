@@ -24,24 +24,6 @@ __NORDSTROM__  | Seattle, WA `Aug 2017 - June 2019`
 * Partner with distribution centers to resolve any mismatched product information or shipment issues.
 
 
-__HAN’S BEAUTY ACADEMY Co., Ltd__  | Seattle, WA `Jan 2016 - June 2017` 
-<br>_Manager_
-* Designed and managed guidelines and curriculum for cosmetology and barbering courses per Washington State Legislature.
-* Provided individualized career counseling and advising for students to help achieve their career goals upon graduation.
-* Ad Operation: Managed the school website and client portal; advertising and press release on local newspapers and TV stations.
-
-
-__US SCHOLARS__ | Seoul, Korea `June - Sept 2014`
-<br>_Instructor_
-* Taught a class of high school students, subjects: Enligsh Composition, SAT 1 & 2 Math
-
-
-__UW PIPELINE__  | Seattle, WA `Sept 2012 – Mar 2013` 
-<br>_Project Coordinator_
-* Coordinated the UW outreach program that mentors under-serviced K-12 students in the Seattle Public School District.
-* Instructed a class of Pre-K children with speech and learning disabilities.
-* Monitored performance of students from inner-city schools and assisted in designing workshops for parents.
-
 ## Education
 __ADA DEVELOPERS ACADEMY__ | Seattle, WA `July 2019 - Present`
 * Ruby, Ruby on Rails, HTML & CSS, Bootstrap, Web APIs, Javascript, React, React Native
